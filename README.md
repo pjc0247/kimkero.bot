@@ -1,5 +1,17 @@
 # kimkero.bot
 keroro fun
+<br>
+![](throw-all-the-things-415x320.jpg)
+![](alphac.PNG)
+![](throw-all-the-things-415x320.jpg)
+![](alphac.PNG)
+![](throw-all-the-things-415x320.jpg)
+![](alphac.PNG)
+![](throw-all-the-things-415x320.jpg)
+![](alphac.PNG)
+![](throw-all-the-things-415x320.jpg)
+![](alphac.PNG)
+
 
 ```cs
 using System.Linq;
