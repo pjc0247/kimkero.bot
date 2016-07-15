@@ -29,7 +29,7 @@ public void OnInit() {
     }
 }
 
-[Schedule(4)]
+[Schedule(11)]
 public void OnUpdate() {
     string url = "http://kimkero.tistory.com/rss";
     XmlReader reader = XmlReader.Create(url);
