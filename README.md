@@ -47,8 +47,8 @@ public void OnUpdate() {
         posts.Add(link);
         Console.WriteLine(link);
 
-        Slack.SendMessage("#p_slackbot", subject);
-        Slack.SendMessage("#p_slackbot", link);
+        Slack.SendMessage("#keroro", subject);
+        Slack.SendMessage("#keroro", link);
     }
 }
 ```
